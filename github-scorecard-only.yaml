@@ -9,5 +9,5 @@ metadata:
     backstage.io/source-location: url:https://github.com/janus-qe/RHDH-scorecard-plugin-test
 spec:
   type: service
-  owner: user:rhdh-qe
+  owner: user:test1
   lifecycle: production

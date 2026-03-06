@@ -11,5 +11,5 @@ metadata:
     jira/project-key: RSPT
 spec:
   type: service
-  owner: user:rhdh-qe
+  owner: user:test1
   lifecycle: production
