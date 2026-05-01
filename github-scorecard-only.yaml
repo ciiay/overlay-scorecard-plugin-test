@@ -9,5 +9,5 @@ metadata:
     backstage.io/source-location: url:https://github.com/janus-qe/overlay-scorecard-plugin-test
 spec:
   type: service
-  owner: user:test1
+  owner: user:ciiay
   lifecycle: production
