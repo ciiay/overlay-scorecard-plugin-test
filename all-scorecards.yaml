@@ -12,5 +12,5 @@ metadata:
     scorecard.io/disabled-metrics: openssf.maintained
 spec:
   type: service
-  owner: user:test1
+  owner: user:ciiay
   lifecycle: production
